@@ -1,4 +1,7 @@
+#include <stdio.h>
 int main(void){
-    printf("helo");
-    return 0;
+	int x = 1;//
+	printf("%i", 1);
+	printf("helo");
+	return 0;
 }
